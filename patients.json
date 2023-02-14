@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "name": "Sigismund Cockill",
+    "email": "scockill0@elegantthemes.com",
+    "gender": "Male",
+    "age": 73,
+    "phone": "470-259-9353",
+    "Records": "typhoid"
+  },
+  {
+    "id": 2,
+    "name": "Arleen Gut",
+    "email": "agut1@opera.com",
+    "gender": "Bigender",
+    "age": 57,
+    "phone": "944-707-0747",
+    "Records": "HIV"
+  },
+  {
+    "id": 3,
+    "name": "Ermanno Frankis",
+    "email": "efrankis2@apache.org",
+    "gender": "Male",
+    "age": 65,
+    "phone": "779-950-6286",
+    "Records": "cold"
+  },
+  {
+    "id": 4,
+    "name": "Max Rowaszkiewicz",
+    "email": "mrowaszkiewicz3@google.co.uk",
+    "gender": "Male",
+    "age": 64,
+    "phone": "150-304-8599",
+    "Records": "Malaria"
+  },
+  {
+    "id": 5,
+    "name": "Anni Kinchley",
+    "email": "akinchley4@theglobeandmail.com",
+    "gender": "Female",
+    "age": 47,
+    "phone": "243-245-6867",
+    "Records": "typhoid"
+  },
+  {
+    "id": 6,
+    "name": "Latia Sivier",
+    "email": "lsivier5@blogtalkradio.com",
+    "gender": "Agender",
+    "age": 43,
+    "phone": "303-851-5229",
+    "Records": "Cancer"
+  },
+  {
+    "id": 7,
+    "name": "Ward Barosch",
+    "email": "wbarosch6@wufoo.com",
+    "gender": "Male",
+    "age": 4,
+    "phone": "932-348-7650",
+    "Records": "typhoid"
+  },
+  {
+    "id": 8,
+    "name": "Eadie Drees",
+    "email": "edrees7@csmonitor.com",
+    "gender": "Polygender",
+    "age": 73,
+    "phone": "275-571-8916",
+    "Records": "typhoid"
+  },
+  {
+    "id": 9,
+    "name": "Eryn Stubbes",
+    "email": "estubbes8@hostgator.com",
+    "gender": "Female",
+    "age": 79,
+    "phone": "165-402-0802",
+    "Records": "Malaria"
+  },
+  {
+    "id": 10,
+    "name": "Egbert Kingsman",
+    "email": "ekingsman9@theglobeandmail.com",
+    "gender": "Male",
+    "age": 32,
+    "phone": "402-321-2524",
+    "Records": "cold"
+  },
+  {
+    "id": 11,
+    "name": "Lorens Seedhouse",
+    "email": "lseedhousea@imgur.com",
+    "gender": "Male",
+    "age": 3,
+    "phone": "182-521-8831",
+    "Records": "cold"
+  },
+  {
+    "id": 12,
+    "name": "Greta Wealleans",
+    "email": "gwealleansb@hubpages.com",
+    "gender": "Female",
+    "age": 2,
+    "phone": "428-757-7250",
+    "Records": "typhoid"
+  },
+  {
+    "id": 13,
+    "name": "Sean Suttaby",
+    "email": "ssuttabyc@php.net",
+    "gender": "Male",
+    "age": 63,
+    "phone": "592-118-2798",
+    "Records": "Cancer"
+  },
+  {
+    "id": 14,
+    "name": "Jessey Boast",
+    "email": "jboastd@google.com.au",
+    "gender": "Male",
+    "age": 8,
+    "phone": "340-561-4647",
+    "Records": "cold"
+  },
+  {
+    "id": 15,
+    "name": "Westley Gogay",
+    "email": "wgogaye@cloudflare.com",
+    "gender": "Male",
+    "age": 59,
+    "phone": "396-950-8411",
+    "Records": "Corona"
+  },
+  {
+    "id": 16,
+    "name": "Cassondra Dishman",
+    "email": "cdishmanf@weebly.com",
+    "gender": "Non-binary",
+    "age": 62,
+    "phone": "319-602-5918",
+    "Records": "Corona"
+  },
+  {
+    "id": 17,
+    "name": "Neils Blenkiron",
+    "email": "nblenkirong@addthis.com",
+    "gender": "Male",
+    "age": 21,
+    "phone": "246-281-1471",
+    "Records": "Malaria"
+  },
+  {
+    "id": 18,
+    "name": "Damara Macia",
+    "email": "dmaciah@slideshare.net",
+    "gender": "Female",
+    "age": 15,
+    "phone": "146-858-8511",
+    "Records": "cold"
+  },
+  {
+    "id": 19,
+    "name": "Jessamine MacCurley",
+    "email": "jmaccurleyi@home.pl",
+    "gender": "Female",
+    "age": 64,
+    "phone": "493-808-9883",
+    "Records": "Malaria"
+  },
+  {
+    "id": 20,
+    "name": "Jessee Hourigan",
+    "email": "jhouriganj@usgs.gov",
+    "gender": "Male",
+    "age": 9,
+    "phone": "523-324-9388",
+    "Records": "typhoid"
+  },
+  {
+    "email": "austin@gmail.com",
+    "name": "austin",
+    "gender": "male",
+    "age": "30",
+    "phone": "123468513215",
+    "Records": "Malaria"
+  }
+]

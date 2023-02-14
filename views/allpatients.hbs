@@ -1,0 +1,21 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>All Patients</title>
+  </head>
+  <body>
+    <p>Patient Records</p>
+    <div>
+      {{#each parsedpatients}}
+        <p><span>name: </span>{{this.name}}</p>
+        <p><span>email: </span>{{this.email}}</p>
+        <p><span>gender: </span>{{this.gender}}</p>
+        <p><span>age: </span>{{this.age}}</p>
+        <p><span>phone: </span>{{this.phone}}</p>
+        <p><span>Records: </span>{{this.gender}}</p>
+      {{/each}}
+    </div>
+  </body>
+</html>
